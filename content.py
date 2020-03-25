@@ -1,1 +1,1 @@
-print("fnjwq")
+print("kwujs")
