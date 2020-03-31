@@ -40,5 +40,6 @@ int main() {
         cout << "gmokg";
         cout << "yaoqg";
         cout << "loudy";
+        cout << "kptjd";
 return 0;
 }
