@@ -7,6 +7,6 @@ int main() {
         cout << "toepm";
         cout << "fxood";
         cout << "bdekh";
-        cout << "jauge";
+        cout << "kraui";
 return 0;
 }
