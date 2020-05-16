@@ -45,6 +45,5 @@ int main() {
         cout << "nfbnc";
         cout << "nwffh";
         cout << "uotbo";
-        cout << "otenc";
 return 0;
 }
