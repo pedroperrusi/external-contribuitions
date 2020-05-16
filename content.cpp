@@ -44,6 +44,6 @@ int main() {
         cout << "pbcng";
         cout << "nfbnc";
         cout << "nwffh";
-        cout << "ssfws";
+        cout << "mngnr";
 return 0;
 }
