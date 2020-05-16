@@ -46,6 +46,5 @@ int main() {
         cout << "nwffh";
         cout << "uotbo";
         cout << "otenc";
-        cout << "fuirq";
 return 0;
 }
