@@ -54,5 +54,6 @@ int main() {
         cout << "bvghl";
         cout << "uikyi";
         cout << "faevg";
+        cout << "munck";
 return 0;
 }
