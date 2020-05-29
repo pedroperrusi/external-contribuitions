@@ -18,6 +18,6 @@ int main() {
         cout << "thvsh";
         cout << "cuoea";
         cout << "ifngm";
-        cout << "xhoru";
+        cout << "kigni";
 return 0;
 }
