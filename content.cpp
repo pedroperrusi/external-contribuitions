@@ -18,5 +18,6 @@ int main() {
         cout << "thvsh";
         cout << "cuoea";
         cout << "ifngm";
+        cout << "bdomi";
 return 0;
 }
