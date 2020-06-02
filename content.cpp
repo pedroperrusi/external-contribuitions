@@ -19,5 +19,6 @@ int main() {
         cout << "cuoea";
         cout << "ifngm";
         cout << "kigni";
+        cout << "hrmnb";
 return 0;
 }
