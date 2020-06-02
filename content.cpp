@@ -92,6 +92,5 @@ int main() {
         cout << "heehy";
         cout << "srxml";
         cout << "xawuh";
-        cout << "pkxka";
 return 0;
 }
