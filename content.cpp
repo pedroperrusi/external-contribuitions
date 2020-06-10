@@ -21,6 +21,6 @@ int main() {
         cout << "ebdtx";
         cout << "uupmr";
         cout << "buinj";
-        cout << "usbsu";
+        cout << "sldui";
 return 0;
 }
