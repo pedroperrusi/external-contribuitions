@@ -20,5 +20,6 @@ int main() {
         cout << "ifngm";
         cout << "ebdtx";
         cout << "uupmr";
+        cout << "buinj";
 return 0;
 }
