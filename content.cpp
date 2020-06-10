@@ -21,5 +21,6 @@ int main() {
         cout << "ebdtx";
         cout << "uupmr";
         cout << "buinj";
+        cout << "usbsu";
 return 0;
 }
