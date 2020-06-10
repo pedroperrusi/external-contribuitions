@@ -57,5 +57,6 @@ int main() {
         cout << "munck";
         cout << "tqoss";
         cout << "wcxqq";
+        cout << "minyx";
 return 0;
 }
