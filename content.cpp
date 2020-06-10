@@ -58,6 +58,6 @@ int main() {
         cout << "tqoss";
         cout << "wcxqq";
         cout << "minyx";
-        cout << "mkdwl";
+        cout << "soeuj";
 return 0;
 }
