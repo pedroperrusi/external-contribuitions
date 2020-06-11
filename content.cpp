@@ -23,6 +23,6 @@ int main() {
         cout << "buinj";
         cout << "jakka";
         cout << "crxbu";
-        cout << "galdt";
+        cout << "nlgmu";
 return 0;
 }
