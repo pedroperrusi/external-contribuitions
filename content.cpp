@@ -97,6 +97,5 @@ int main() {
         cout << "prkqq";
         cout << "hvenu";
         cout << "wmxwr";
-        cout << "pylin";
 return 0;
 }
