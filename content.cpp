@@ -26,6 +26,6 @@ int main() {
         cout << "gowiy";
         cout << "mkuvo";
         cout << "kqdsf";
-        cout << "knqys";
+        cout << "kogdl";
 return 0;
 }
