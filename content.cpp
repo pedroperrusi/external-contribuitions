@@ -34,5 +34,6 @@ int main() {
         cout << "shaxe";
         cout << "gksxu";
         cout << "leyei";
+        cout << "lvdip";
 return 0;
 }
