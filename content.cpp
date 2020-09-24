@@ -35,6 +35,5 @@ int main() {
         cout << "gksxu";
         cout << "leyei";
         cout << "lvdip";
-        cout << "ucxmi";
 return 0;
 }
