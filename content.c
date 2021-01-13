@@ -1,6 +1,6 @@
 # include <stdio.h>
 
 int main() {
-        printf("ancme");
+        printf("ymdwn");
 return 0;
 }
