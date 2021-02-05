@@ -104,5 +104,6 @@ int main() {
         cout << "jjqkj";
         cout << "hunnu";
         cout << "rfcjb";
+        cout << "fukwt";
 return 0;
 }
