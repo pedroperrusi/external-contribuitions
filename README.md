@@ -2,6 +2,8 @@
 
 The aim of this repository is to report in GitHub contributions coming from other platforms.
 
+Currently I use INRIA hosted [GitLab server](https://gitlab.inria.fr/) for my daily work at [Mimesis](https://mimesis.inria.fr/) and  [ICube AVR](https://avr.icube.unistra.fr/en/index.php/Main_Page) teams.
+
 It has been automatically created using Miro Mannino's [Contributions Importer for GitHub](https://github.com/miromannino/contributions-importer-for-github)
 
 ## Notice
