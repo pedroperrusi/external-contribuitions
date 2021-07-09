@@ -115,6 +115,7 @@ int main() {
         cout << "kould";
         cout << "ptoiv";
         cout << "msfhg";
-        cout << "naqei";
+        cout << "lsaqg";
+        cout << "samfx";
 return 0;
 }
