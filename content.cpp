@@ -116,6 +116,5 @@ int main() {
         cout << "ptoiv";
         cout << "msfhg";
         cout << "lsaqg";
-        cout << "ndvwk";
 return 0;
 }
